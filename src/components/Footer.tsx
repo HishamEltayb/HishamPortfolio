@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="../../Hisham Ahmed.pdf"
+              href="https://raw.github.com/HishamEltayb/HishamPortfolio/d19490b08015dc3e46212f390d3c5d4a4a579164/Hisham%20Ahmed.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-400 transition-colors duration-300"
