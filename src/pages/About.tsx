@@ -18,7 +18,7 @@ const About: React.FC = () => {
           <div className="md:flex-shrink-0 mb-4 md:mb-0 md:mr-6">
             <img
               className="h-48 w-48 object-cover rounded-full shadow-lg"
-              src="../../155056739.jpeg"
+              src="/155056739.jpeg"
               alt="Hisham Ahmed"
             />
           </div>
